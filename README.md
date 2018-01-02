@@ -1,3 +1,3 @@
 # agdevelopment
 
-Custom Raw Feeding Calculator Plugin Developed + designed by Amy Granillo
+Custom Raw Feeding Calculator Plugin Developed + Designed by Amy Granillo
